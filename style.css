@@ -1,0 +1,17 @@
+h1 {
+    color : #000000;
+    text-align: center;
+}
+
+button {
+    border: 3px solid #eeb7b7;
+    background-color: #ff6363;
+    width: 30%;
+    height: 50vh;
+    text-align: center;
+    font-size: 50px;
+}
+button:hover {
+    background-color: rgb(174, 244, 244);
+    color: #ff6363;
+}
